@@ -1,6 +1,6 @@
 # Cafe24Classictype
 
-# 카페24 클래식타입체(Cafe24ClassicType)
+# 카페24 클래식 타입체(Cafe24ClassicType)
 
 <pre>
 @font-face {
